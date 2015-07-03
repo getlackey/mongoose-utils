@@ -19,7 +19,11 @@
         "url": "https://github.com/getlackey/mongoose-utils/issues"
     },
     "homepage": "https://github.com/getlackey/mongoose-utils#readme",
-    "dependencies": {},
+    "dependencies": {
+        "deep-get-set": "^0.1.1",
+        "mongoose": "^4.0.6",
+        "q": "^1.4.1"
+    },
     "devDependencies": {
         "grunt": "^0.4.5",
         "grunt-config-dir": "^0.3.2",
@@ -29,5 +33,7 @@
         "istanbul": "^0.3.16",
         "mocha": "^2.1.0"
     },
-    "keywords": ["express", "mongoose", "API", "REST"]
+    "keywords": [
+        "mongoose"
+    ]
 }

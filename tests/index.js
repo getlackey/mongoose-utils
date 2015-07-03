@@ -19,7 +19,7 @@
 
 var assert = require("assert");
 
-describe('Lackey Request Handler', function () {
+describe('Lackey', function () {
     it('should return id and title', function () {
 
     });
