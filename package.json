@@ -1,6 +1,6 @@
 {
     "name": "lackey-mongoose-utils",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Some utilities to work with mongoose",
     "main": "lib/index.js",
     "scripts": {
@@ -22,6 +22,7 @@
     "dependencies": {
         "deep-get-set": "^0.1.1",
         "mongoose": "^4.0.6",
+        "merge": "1.2.0",
         "q": "^1.4.1"
     },
     "devDependencies": {
